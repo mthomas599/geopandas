@@ -1,5 +1,5 @@
 # required
-fiona>=1.8
+fiona>=1.10b2
 pandas>=1.0.0
 pyproj>=2.6.1.post1
 shapely>=1.7
